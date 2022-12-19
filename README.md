@@ -1,2 +1,2 @@
 # theMachinimaVault
-Open-source information repository for machinima-making and machinima post-production
+Open-Source information repository for Machinima-making and Machinima Post-Production
