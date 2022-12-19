@@ -1,2 +1,2 @@
-# the Machinima Vault
- pen-Source Information Repository for Machinima-making and Post-Production purposes.
+# The Machinima Vault
+ Open-Source Information Repository for Machinima-making and Post-Production purposes.
