@@ -6,7 +6,7 @@ My e-mail may only be used for copyright infringement issues. Other e-mails will
 Please understand that if your e-mail ends up in my spam box nonetheless, there's only so much I can do to read it.
 You can try to prevent this by re-sending the same email from another e-mail address.
 
-##### I will send you a confirmation e-mail once I have received your e-mail and glanced over your e-mail.
+##### I will send you a confirmation e-mail once I have received your e-mail.
 
 ##### From that moment on, I will do my best to send an official response to your claim as fast as possible. My aim is to respond within two weeks after sending a confirmation, depending on the situation. The given timeframe is an estimate. No rights can be derived from it.
 
