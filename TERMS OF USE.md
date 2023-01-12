@@ -56,7 +56,7 @@ It is forbidden to plagiarize any part of the repository's content, such as text
 ### [7] - COMMERCIAL USE OF VIDEO AND PHOTO CONTENT
 
 Any commercial use of any of the screenshots and/or video's found in the repository is **PROHIBITED** unless written permission has been given by both A Pixelated Point of View and the other
-copyright holders involved. You are still responsible for getting proper copyright clearance from the other copyright holders involved for your intended purpose. Be reminded that even if I give permission, my permission is merely permission to use the existing media assets created by me for the Machinima Vault. It does not give you copyright clearance of any kind for the contents found within them. Any claims that are the result of improper use of the repository and improper compliance with this rule are explicitly rejected.
+copyright holders involved. You are still responsible for getting proper copyright clearance from the other copyright holders involved for your intended purpose. Be reminded that even if I give permission, my permission is merely permission to use the existing media assets created by me for the Machinima Vault. It does not give you copyright clearance of any kind for the contents found within these assets. Any claims that are the result of improper use of the repository and improper compliance with this rule are explicitly rejected.
 
 ### [8] - COMMERCIAL USE OF TEXT-BASED CONTENT
 
