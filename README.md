@@ -74,11 +74,5 @@
     </tbody>
 </table>
 
-<ul align="center" text-decoration="none">
-<li>For more information about the Terms of Use of the Vault, please visit the <a href="/TERMS OF USE.md">Terms of Use</a> page for more information.</li>
-<li>For credits and references used, please visit the <a href="/REFERENCES.md">References</a> page for more information.</li>
-<li>If you want to know what has changed during every update, visit the <a href="/CHANGELOG.md">Changelog</a>page for more information.</li>
-</ul>
-
 <p align="center">Made with &#128155; in HTML, CSS, SCSS, Bootstrap, JavaScript, and React</p>
 <p align="center">A Pixelated Point of View 2009 - 2023</p>
