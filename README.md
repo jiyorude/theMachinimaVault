@@ -3,7 +3,7 @@
 ---
 
 <h4 align="center">Information Repository for Machinima-making and Machinima Post-Production.</h4>
-
+<br>
 <h6 align="center">CURRENT VERSION: N/A  --  LAST UPDATE: JANUARY 12, 2023</h6>
 <br>
 <p align="center" width="60%">The Machinima Vault is an ever-expanding, freely-accessible, retro-themed information repository for those who are interested in the art of Machinima and the act of creating their own. It contains extensive information about the concept of Machinima, how Machinima was born, modern-day Machinima practices and most importantly: how you are able to make your own Machinima inside an ever-growing list of PC and console-based games/software from the past three decades. The Machinima Vault contains vast amounts of information regarding (experimental) machinima possibilities in many games, choosing and installing mods, mod-use, required hardware and/or software, mod-installation, game manipulation, creating custom assets for your films such as objects or maps, cinematography tips and tricks, creating shots and of course valuable insights towards the many facettes of machinima post-production such as video-editing, audio post-production, color grading and exporting your work.</p>
