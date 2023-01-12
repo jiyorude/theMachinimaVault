@@ -69,7 +69,7 @@ Any commercial use of any of the text-based (content) information found in the r
     * VOD platforms that utilize subscription models;
     * Commercial events;
 
-are **PROHIBITED** unless explicit written permission has been received from A Pixelated Point of View and (if appliccable) all other copyright holders involved.
+are **PROHIBITED** unless explicit written permission has been received from A Pixelated Point of View and (if applicable) all other copyright holders involved.
 
 ### [9] - USE OF THE VAULT'S SOURCE CODE
 
