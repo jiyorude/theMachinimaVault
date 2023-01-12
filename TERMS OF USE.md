@@ -37,9 +37,9 @@ You are free to use and/or reproduce any of the text-based information found in 
     * Websites;
     * Essays;
     * Video-Essays;
-    * News Articles
-    * Research Papers and/or Research Journals that are open-source or open-acccess
-    * Free (e)-books
+    * News Articles;
+    * Research Papers and/or Research Journals that are open-source or open-acccess;
+    * Free (e)-books;
 
 You may do so as long as Jordy Veenstra, A Pixelated Point of View and the Machinima Vault are properly cited with links referencing the Machinima Vault.
 
@@ -68,10 +68,10 @@ The commercial use of any of the text-based (content) information found in the r
 
     * Closed-source networks and/or media that involve any kind of payment;
     * Pay to access media, news repositories, information channels or media networks;
-    * Subscription models
+    * Subscription models;
     * Closed research papers and/or journals that are only accessible through payment;
-    * VOD platforms that utilize subscription models
-    * Commercial events
+    * VOD platforms that utilize subscription models;
+    * Commercial events;
 
 are **PROHIBITED** unless explicit written permission has been received from A Pixelated Point of View and (if appliccable) all other copyright holders involved.
 
