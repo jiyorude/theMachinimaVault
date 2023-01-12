@@ -14,7 +14,7 @@
 
 ---
 
-##### Everytime you download, read and/or use any of the information or assets found inside of the Machinima Vault, you agree to the following terms of use:
+##### Every time you download, read and/or use any of the information or assets found inside of the Machinima Vault, you agree to the following terms of use:
 
 ### [1] - WARRANTIES
 
