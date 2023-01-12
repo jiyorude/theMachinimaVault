@@ -2,9 +2,11 @@
 
 #### FONTS:
 
-Retro Gaming. Designed by 'DayMarius'. Obtained from: https://www.dafont.com/retro-gaming.font
+|     Font     | Designer  |                  Source                  |
+| :----------: | :-------: | :--------------------------------------: |
+| Retro Gaming | DayMarius | https://www.dafont.com/retro-gaming.font |
 
-### GAMES:
+#### GAMES:
 
 |          Game          |                 Developer                 |        Publisher        |    Release Date    |
 | :--------------------: | :---------------------------------------: | :---------------------: | :----------------: |
