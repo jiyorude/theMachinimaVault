@@ -1,8 +1,8 @@
 # THE MACHINIMA VAULT - TERMS OF USE
 
-### CODED BY JORDY VEENSTRA // A PIXELATED POINT OF VIEW
+#### CODED BY JORDY VEENSTRA // A PIXELATED POINT OF VIEW
 
-### LAST UPDATED: JANUARY 12, 2023
+#### LAST UPDATED: JANUARY 12, 2023
 
 ---
 
@@ -31,7 +31,7 @@ during your production process. Of course, it is always appreciated, but you are
 
 ### [4] - NON-COMMERCIAL USE OF TEXT-BASED CONTENT
 
-You are free to use and/or reproduce any of the text-based information found in this repository on _OPEN-ACCESS and NON-COMMERCIAL_ media, such as, but not limited to:
+You are free to use and/or reproduce any of the text-based information found in this repository on **OPEN-ACCESS and NON-COMMERCIAL** media, such as, but not limited to:
 
     * Blogs;
     * Websites;
@@ -45,7 +45,7 @@ You may do so as long as Jordy Veenstra, A Pixelated Point of View and the Machi
 
 ### [5] - NON COMMERCIAL USE OF VIDEO AND PHOTO CONTENT
 
-Screenshots and/or video's found in the repository may be reproduced, shared and used for _NON-COMMERCIAL and OPEN-ACCESS_ purposes that fall under the
+Screenshots and/or video's found in the repository may be reproduced, shared and used for **NON-COMMERCIAL and OPEN-ACCESS** purposes that fall under the
 category of 'Fair Use'. If you decide to use media material originating from the repository under Fair Use, it is your sole responsibility to ensure that
 Fair Use standards have been met, and that all copyright holders involved including A Pixelated Point of View are properly cited. The responsibility
 and realibility of reproducing and re-using media content found on the repository outside of its direct scope lies with you.
@@ -59,7 +59,7 @@ In tandem, plagiarizing any of the images and/or vivdeo's found on the repositor
 
 ### [7] - COMMERCIAL USE OF VIDEO AND PHOTO CONTENT
 
-Commercial use of any of the screenshots and/or video's found in the repository is _PROHIBITED_ unless written permission has been given by me and the other
+Commercial use of any of the screenshots and/or video's found in the repository is **PROHIBITED** unless written permission has been given by me and the other
 copyright holders involved. You are still responsible for getting proper copyright clearance from the other copyright holders involved for your intended purpose. Be reminded that even if I give permission, my permission is merely permission to use the existing media assets created by me for the Machinima Vault. It does not give you copyright clearance of any kind for the contents found within them. Any copyright claims due to improper use of the repository and improperly compliance with this rule are explicitly rejected.
 
 ### [8] - COMMERCIAL USE OF TEXT-BASED CONTENT
@@ -73,12 +73,12 @@ The commercial use of any of the text-based (content) information found in the r
     * VOD platforms that utilize subscription models
     * Commercial events
 
-are _PROHIBITED_ unless explicit written permission has been received from A Pixelated Point of View and (if appliccable) all other copyright holders involved.
+are **PROHIBITED** unless explicit written permission has been received from A Pixelated Point of View and (if appliccable) all other copyright holders involved.
 
 ### [9] - USE OF THE VAULT'S SOURCE CODE
 
-You are _free_ to use, recycle, re-use and copy/paste (plagiarize if you will) parts of the HTML code structure (content found within is
-** excluded ** as that is seen as plagiarism), CSS, JSX, Bootstrap, SASS and JavaScript raw code without the need for any citation. You are free to use any part of the raw code for both non commercial and commercial purposes. Again, the content found inside the HTML code (see section 6 - plagiarism) is excluded.
+You are **free** to use, recycle, re-use and copy/paste (plagiarize if you will) parts of the HTML code structure (content found within is
+_excluded_ as that is seen as plagiarism), CSS, JSX, Bootstrap, SASS and JavaScript raw code without the need for any citation. You are free to use any part of the raw code for both non commercial and commercial purposes. Again, the content found inside the HTML code (see section 6 - plagiarism) is excluded.
 
 ### [10] - ADJUSTMENTS TO THIS TERMS OF USE
 
