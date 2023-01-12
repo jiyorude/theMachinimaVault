@@ -73,7 +73,7 @@ are **PROHIBITED** unless explicit written permission has been received from A P
 
 ### [9] - USE OF THE VAULT'S SOURCE CODE
 
-You are **free** to use and/or re-use and adjust parts of the barebones/raw HTML code structure, CSS, JSX, Bootstrap, SASS and JavaScript code without the need for any citation. You are free to use any part of the raw code for both non commercial and commercial purposes. This does **not** apply to the content (text, images, logo's and video's) found inside of the Machinima Vault, only the raw code structures.
+You are **free** to use the barebones/raw HTML code structure, CSS, JSX, Bootstrap, SASS and JavaScript code without the need for any citation. You are free to use any part of the raw code for both non commercial and commercial purposes. This does **not** apply to the content (text, images, logo's and video's) found inside of the Machinima Vault, only the raw code structures.
 
 ### [10] - ADJUSTMENTS TO THIS TERMS OF USE
 
