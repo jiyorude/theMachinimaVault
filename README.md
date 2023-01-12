@@ -26,8 +26,8 @@
         <tr>
             <td>Git Documentation</td>
             <td>Documentation/General</td>
-            <td>60%</td>
-            <td>T.B.A</td>
+            <td>100%</td>
+            <td>v.0.1</td>
         </tr>
         <tr>
             <td>Landing Page</td>
@@ -73,6 +73,7 @@
         </tr>
     </tbody>
 </table>
+---
 
 <p align="center">Made with &#128155; in HTML, CSS, SCSS, Bootstrap, JavaScript, and React</p>
 <p align="center">A Pixelated Point of View 2009 - 2023</p>
