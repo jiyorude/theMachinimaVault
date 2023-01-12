@@ -6,7 +6,7 @@ Retro Gaming. Designed by 'DayMarius'. Obtained from: https://www.dafont.com/ret
 
 ### GAMES:
 
-| Game                   |                 Developer                 |        Publisher        |       Release Date |
-| ---------------------- | :---------------------------------------: | :---------------------: | -----------------: |
-| Quake III Arena        | id Software, Raster Productions, Bullfrog |       id Software       | December 5th, 1999 |
-| Rollercoaster Tycoon 3 |       Frontier Developments, Aspyr        | Frontier Foundry, Aspyr |   October 26, 2004 |
+|          Game          |                 Developer                 |        Publisher        |    Release Date    |
+| :--------------------: | :---------------------------------------: | :---------------------: | :----------------: |
+|    Quake III Arena     | id Software, Raster Productions, Bullfrog |       id Software       | December 5th, 1999 |
+| Rollercoaster Tycoon 3 |       Frontier Developments, Aspyr        | Frontier Foundry, Aspyr |  October 26, 2004  |
