@@ -1,6 +1,4 @@
-<!-- <img src="/git-assets/temp_logo_machinima-vault.png" alt="Logo of the Machinima Vault"/> -->
-
-## THE MACHINIMA VAULT
+<img align="center" src="public/assets/temp_logo_machinima-vault.png" alt="Logo of the Machinima Vault"/>
 
 ---
 
@@ -61,20 +59,7 @@
             <td>0%</td>
             <td>T.B.A</td>
         </tr>
-        <tr>
-            <td>Quake III Arena Machinima Guide</td>
-            <td>Machinima Guide</td>
-            <td>0%</td>
-            <td>T.B.A</td>
-        </tr>
-        <tr>
-            <td>Rollercoaster Tycoon 3 Machinima Guide</td>
-            <td>Machinima Guide</td>
-            <td>0%</td>
-            <td>T.B.A</td>
-        </tr>
     </tbody>
 </table>
 
-<p align="center">Made with &#128155; in HTML, CSS, SCSS, Bootstrap, JavaScript, and React</p>
 <p align="center">A Pixelated Point of View 2009 - 2023</p>
