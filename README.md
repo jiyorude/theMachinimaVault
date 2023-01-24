@@ -1,4 +1,6 @@
-<img src="/git-assets/temp_logo_machinima-vault.png" alt="Logo of the Machinima Vault"/>
+<!-- <img src="/git-assets/temp_logo_machinima-vault.png" alt="Logo of the Machinima Vault"/> -->
+
+## THE MACHINIMA VAULT
 
 ---
 
