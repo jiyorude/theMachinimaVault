@@ -92,11 +92,11 @@ My e-mail may only be used for copyright infringement issues. Other e-mails cont
 
 Please construct your e-mail like this:
 
-- Who you are, and on whose behalf you speak;
-- Your position in this project/team/company;
-- The part of the Machinima Vault that you believe infringes your copyright;
-- Reasoning why you believe the Machinima Vault infringes your copyright and why the use does not fall under Fair Use;
-- What issue is your team, project, company experiencing from the Machinima Vault using this asset;
-- What you believe to be the best solution for this problem;
+Who you are, and on whose behalf you speak;
+Your position in this project/team/company;
+The part of the Machinima Vault that you believe infringes your copyright;
+Reasoning why you believe the Machinima Vault infringes your copyright and why the use does not fall under Fair Use;
+What issue is your team, project, company experiencing from the Machinima Vault using this asset;
+What you believe to be the best solution for this problem;
 
 - Any issues regarding general performance of the Vault or information contained inside the Vault may be posted in the 'issues' section of this project, alongside with feature requests or general questions about the Vault. Please do not use the issues tab to ask for help in your machinima project. I do not provide any additional help or tutoring.
