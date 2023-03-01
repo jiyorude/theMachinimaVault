@@ -2,7 +2,6 @@
 
 ![MachinimaVault-Logo-White](./assets/readme/Dark-logo.png#gh-dark-mode-only)
 ![MachinimaVault-Logo-Black](./assets/readme/Light-logo.png#gh-light-mode-only)
-
 <h4 align="center">Information Repository for Machinima-making and Machinima Post-Production</h4>
 
 ---
